@@ -1,0 +1,49 @@
+.cor-vermelha{
+    color: red;
+}
+
+.fundo-azul{
+    background-color: blue;
+}
+
+#minha-div{
+    
+    background-image: url(https://starwalk.space/gallery/images/what-is-space/1140x641.jpg);
+}
+
+.h3{
+    color: red;
+}
+
+#altura-largura{
+    height: 300px;
+    width: 200px;
+background-color: rgb(241, 6, 6);
+}
+
+#espacamento{
+    background-color: chartreuse;
+    padding: 10px 20px 10px 20; 
+}
+
+#margem{
+    background-color: darkgreen;
+    margin: 10px 20px 10px 20px;
+}
+
+#borda{
+    background-color: darkblue;
+    width: 200px;
+    height: 200px;
+    margin-top: 10;
+    border: 3px dashed black;
+}
+
+#arredondamento-borda{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin-top: 10;
+    border: 3px dashed black;
+    border-radius: 20px;
+}
